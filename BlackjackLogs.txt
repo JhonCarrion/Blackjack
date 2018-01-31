@@ -1,0 +1,162 @@
+2017/11/27
+
+%
+2017/11/27
+
+
+%
+
+2017/11/27
+Bienvenido al juego de blackjack.
+
+Usted tiene 100 dolares.
+¿Cuántos dólares quieres apostar? (Ingrese 0 para finalizar)
+? 20
+
+
+
+
+Sus cartas son: 
+    7 de Diamantes
+    2 de Corazones
+Su total es: 9
+
+El Distribuidor muestra el  6 de Corazones
+
+Hit (H) o Stand (S)? s
+
+stands del Usuario.
+Las cartas de Distribuidor son 
+    6 de Corazones
+    7 de Espadas
+El tristribuidor hace hit y obtiene el 5 de Diamantes
+El total del distribuidor es 18
+
+Distribuidor gana, 18 puntos a 9.
+
+Usted tiene 80 dolares.
+¿Cuántos dólares quieres apostar? (Ingrese 0 para finalizar)
+? 0
+
+Te vas con $80.
+
+
+
+%
+
+
+2017/11/27
+Bienvenido al juego de blackjack.
+
+Usted tiene 100 dolares.
+¿Cuántos dólares quieres apostar? (Ingrese 0 para finalizar)
+? 30
+
+
+
+
+Sus cartas son: 
+    Rey de Espadas
+    Reina de Corazones
+Su total es: 20
+
+El Distribuidor muestra el  10 de Diamantes
+
+Hit (H) o Stand (S)? h
+
+hits del Usuario.
+Su carta es As de Espadas
+Su total es ahora 21
+
+
+Sus cartas son: 
+    Rey de Espadas
+    Reina de Corazones
+    As de Espadas
+Su total es: 21
+
+El Distribuidor muestra el  10 de Diamantes
+
+Hit (H) o Stand (S)? h
+
+hits del Usuario.
+Su carta es Rey de Diamantes
+Su total es ahora 31
+
+Has subido por encima de 21. Pierdes.
+La otra tarjeta del distribuidor era la 6 de Diamantes
+
+Usted tiene 70 dolares.
+¿Cuántos dólares quieres apostar? (Ingrese 0 para finalizar)
+? 0
+
+Te vas con $70.
+
+
+
+
+%
+
+
+
+2017/11/27
+Bienvenido al juego de blackjack.
+
+Usted tiene 100 dolares.
+¿Cuántos dólares quieres apostar? (Ingrese 0 para finalizar)
+? 40
+
+
+
+
+Sus cartas son: 
+    9 de Treboles
+    9 de Corazones
+Su total es: 18
+
+El Distribuidor muestra el  3 de Treboles
+
+Hit (H) o Stand (S)? h
+
+hits del Usuario.
+Su carta es Jota de Espadas
+Su total es ahora 28
+
+Has subido por encima de 21. Pierdes.
+La otra tarjeta del distribuidor era la Rey de Diamantes
+
+Usted tiene 60 dolares.
+¿Cuántos dólares quieres apostar? (Ingrese 0 para finalizar)
+? 0
+
+Te vas con $60.
+
+
+
+
+
+%
+
+
+
+
+
+
+
+
+%
+
+
+
+
+
+
+%
+
+
+
+
+%
+
+
+%
